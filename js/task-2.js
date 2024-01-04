@@ -31,3 +31,5 @@ console.log(
     { day: 'sunday', calories: 2610 },
   ])
 ); // 2270
+
+console.log(calcAverageCalories([])); // 0
